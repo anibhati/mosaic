@@ -389,7 +389,7 @@ export default function Home() {
           <span style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: 11, color: '#2a2a35', letterSpacing: 3 }}>MOSAIC</span>
           <div style={{ width: 4, height: 4, borderRadius: '50%', background: '#2a2a35' }} />
         </div>
-        <span style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: 10, color: '#2a2a35' }}>Powered by Claude AI · yfinance · Tavily</span>
+        <span style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: 10, color: '#2a2a35' }}>Powered by Multi-Agent AI · yfinance · Tavily</span>
       </div>
 
       <style>{`
